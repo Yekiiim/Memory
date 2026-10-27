@@ -1,0 +1,1 @@
+Dit is een Memory spel gemaakt met HTML, CSS en JavaScript. (En volgens mij is dit mijn 2e readme in deze repository maar dat gaan we zien)
